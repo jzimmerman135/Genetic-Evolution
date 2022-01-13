@@ -1,0 +1,8 @@
+BUG LOG:
+
+Memory overflow error evaluation:
+    900 blocks
+    150 creatures
+    150 * 10 m_input floats
+    150 * 10 m_ouput_weights floats
+    150 * 4 * 14 m_hidden.input_weights floats
